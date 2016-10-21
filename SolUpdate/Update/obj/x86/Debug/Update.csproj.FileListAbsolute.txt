@@ -1,0 +1,12 @@
+F:\自动升级\SolUpdate\Update\obj\x86\Debug\Update.FrmBatchDownload.resources
+F:\自动升级\SolUpdate\Update\obj\x86\Debug\Update.FrmUpdate.resources
+F:\自动升级\SolUpdate\Update\obj\x86\Debug\Update.Properties.Resources.resources
+F:\自动升级\SolUpdate\Update\obj\x86\Debug\Update.csproj.GenerateResource.Cache
+F:\自动升级\SolUpdate\Update\bin\Debug\Update.exe.config
+F:\自动升级\SolUpdate\Update\bin\Debug\Update.exe
+F:\自动升级\SolUpdate\Update\bin\Debug\Update.pdb
+F:\自动升级\SolUpdate\Update\obj\x86\Debug\Update.exe
+F:\自动升级\SolUpdate\Update\obj\x86\Debug\Update.pdb
+C:\Users\hlw42\Pictures\SolUpdate\SolUpdate\Update\bin\Debug\Update.exe.config
+C:\Users\hlw42\Pictures\SolUpdate\SolUpdate\Update\obj\x86\Debug\Update.exe
+C:\Users\hlw42\Pictures\SolUpdate\SolUpdate\Update\obj\x86\Debug\Update.pdb

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="F:\自动升级\SolUpdate\fbweb" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/WebUpdate.pdb" publishTime="09/16/2015 13:59:15" />
+    <file relUrl="bin/WebUpdate.dll" publishTime="09/16/2015 13:59:15" />
+    <file relUrl="WebService.asmx" publishTime="09/16/2015 09:45:55" />
+    <file relUrl="Web.config" publishTime="09/16/2015 14:01:04" />
+  </publishProfile>
+</publishData>

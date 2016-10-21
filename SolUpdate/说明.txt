@@ -1,0 +1,9 @@
+1 fbweb 是webupdate发布的文件布置到服务器的虚拟目录上
+2 setup 是WFormSrc的安装程序（用于第一次安装）
+3 Update 是升级程序（编辑完后把文件复制到WFormSrc的根目录下，用于升级）
+4 WebUpdate 是web 服务，用来给WFormSrc获取下载地址，最新版本用的
+5 WFormSrc 是正程序
+
+原理是WFormSrc 在起动时检测本地的版本与服务器上的版本进行比较，如果不同则起动Update.exe进行升级，同时更新本地的版本设置
+Update.exe不要放在服务器上
+每次升级时只需要更改服务器上的配置文件的版本，同是把要升级的程序上传到服务器指定的目录上

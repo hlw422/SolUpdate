@@ -1,0 +1,8 @@
+F:\自动升级\SolUpdate\WFormSrc\bin\Debug\WFormSrc.exe.config
+F:\自动升级\SolUpdate\WFormSrc\bin\Debug\WFormSrc.exe
+F:\自动升级\SolUpdate\WFormSrc\bin\Debug\WFormSrc.pdb
+F:\自动升级\SolUpdate\WFormSrc\obj\x86\Debug\WFormSrc.Form1.resources
+F:\自动升级\SolUpdate\WFormSrc\obj\x86\Debug\WFormSrc.Properties.Resources.resources
+F:\自动升级\SolUpdate\WFormSrc\obj\x86\Debug\WFormSrc.csproj.GenerateResource.Cache
+F:\自动升级\SolUpdate\WFormSrc\obj\x86\Debug\WFormSrc.exe
+F:\自动升级\SolUpdate\WFormSrc\obj\x86\Debug\WFormSrc.pdb

@@ -1,0 +1,4 @@
+F:\自动升级\SolUpdate\WebUpdate\bin\WebUpdate.dll
+F:\自动升级\SolUpdate\WebUpdate\bin\WebUpdate.pdb
+F:\自动升级\SolUpdate\WebUpdate\obj\Debug\WebUpdate.dll
+F:\自动升级\SolUpdate\WebUpdate\obj\Debug\WebUpdate.pdb
